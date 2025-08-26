@@ -1,0 +1,1 @@
+# No shrinking/obfuscation needed for this tiny project.
